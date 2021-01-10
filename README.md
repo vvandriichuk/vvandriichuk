@@ -21,5 +21,6 @@ GitHub, Docker, Heroku, AWS
 My CV: https://gazolin-production.com/files/datascience_vandriichuk_cv.pdf<br />
 My Kaggle profile : https://www.kaggle.com/viktorandriichuk
 
-![ViktorAndriichuk's github stats](https://github-readme-stats.vercel.app/api?username=vvandriichuk&show_icons=true&theme=radical)
+![ViktorAndriichuk's github stats](https://github-readme-stats.vercel.app/api?username=vvandriichuk&show_icons=true&theme=default)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvandriichuk&layout=compact)]
