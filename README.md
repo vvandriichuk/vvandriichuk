@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**vvandriichuk/vvandriichuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Viktor!
 
 I can create, train and deploy models for images and tabular data.
@@ -21,4 +18,3 @@ Other:
 GitHub, Docker, Heroku, AWS
 
 My kaggle profile : https://www.kaggle.com/viktorandriichuk
- 
