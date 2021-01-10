@@ -4,7 +4,7 @@ My name is Viktor!
 
 I can create, train and deploy models for images and tabular data.
 
-Deep Learning engineer with hands-on experience in the various fields and current focus on the e-commerce (recommendation systems).
+Deep Learning engineer with hands-on experience in the various fields and current focus on the e-commerce (recommendation systems, chat-bots).
 
 I am open to long and short term, as well as remote, projects and consulting services related to machine / deep learning, computer vision, AI, predictive analytics, data science.
 
@@ -12,7 +12,8 @@ Programming Languages & Frameworks:
 Python, PostgreSQL, Flask, FastAPI
 
 ML/DP Frameworks:
-Recommendation Systems, NLP
+NLP: Keras, PyTorch, Gensim
+Recommendation Systems: ImageNet, Sklearn, ALS
 
 Other:
 GitHub, Docker, Heroku, AWS
