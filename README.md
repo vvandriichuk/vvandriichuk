@@ -3,14 +3,22 @@
 <!--
 **vvandriichuk/vvandriichuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Viktor!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can create, train and deploy models for images and tabular data.
+
+Deep Learning engineer with hands-on experience in the various fields and current focus on the e-commerce (recommendation systems).
+
+I am open to long and short term, as well as remote, projects and consulting services related to machine / deep learning, computer vision, AI, predictive analytics, data science.
+
+Programming Languages & Frameworks:
+Python, PostgreSQL, Flask, FastAPI
+
+ML/DP Frameworks:
+Recommendation Systems, NLP
+
+Other:
+GitHub, Docker, Heroku, AWS
+
+My kaggle profile : https://www.kaggle.com/viktorandriichuk
+ 
