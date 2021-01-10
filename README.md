@@ -1,5 +1,7 @@
 Hi there! 👋
 
+{{ ACCOUNT_AGE }}
+
 My name is Viktor!
 
 I can create, train and deploy models for images and tabular data.
