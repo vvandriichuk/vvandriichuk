@@ -17,5 +17,5 @@ Recommendation Systems, NLP
 Other:
 GitHub, Docker, Heroku, AWS
 
-My CV: https://gazolin-production.com/files/datascience_vandriichuk_cv.pdf
+My CV: https://gazolin-production.com/files/datascience_vandriichuk_cv.pdf<br />
 My Kaggle profile : https://www.kaggle.com/viktorandriichuk
