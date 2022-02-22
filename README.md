@@ -18,7 +18,7 @@ Recommendation Systems: ImageNet, Sklearn, ALS
 Other:
 GitHub, Docker, Heroku, AWS
 
-My CV: https://gazolin-production.com/files/datascience_vandriichuk_cv.pdf<br />
+My CV: https://vandriichuk.com<br />
 My Kaggle profile : https://www.kaggle.com/viktorandriichuk
 
 ![ViktorAndriichuk's github stats](https://github-readme-stats.vercel.app/api?username=vvandriichuk&show_icons=true&theme=default)
