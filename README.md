@@ -11,7 +11,6 @@ and Appen, with a storage capacity of several terabytes. I’ve been studying al
 from different sources, computing big data, and storing big data. I constantly study new technologies to understand
 better how they can benefit businesses. My strengths are intensive study of technologies, optimisation of bottlenecks
 in the project, if necessary, starting a project from scratch and forming a team for the project.
-
 My CV: https://vandriichuk.com<br />
 
 ![ViktorAndriichuk's github stats](https://github-readme-stats.vercel.app/api?username=vvandriichuk&show_icons=true&theme=default)
