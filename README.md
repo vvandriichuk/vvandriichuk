@@ -2,11 +2,22 @@ Hi there! 👋
 
 My name is Viktor!
 
-I worked a lot with different types of data - with “regular” and with what can be called “big data” (I did a lot of things with my hands in Data Engineering, ML, analytics and backend) using Python. I used to strive to learn tools for the sake of the tools themselves. And since 2023, I realised it’s not about what tools I use but what value I bring to the business. I realised the main thing is the goal and task; the tools are secondary. I also realised that I can not only “do tasks” - I can also bring additional value to a business in the form of creating effective solutions for finding insights for business growth from start to finish (from collecting data from different sources, proper storage, creation of necessary pipelines for transforming data, finding information in data, or creating dashboards). I help businesses grow by making data-driven decisions and implementing data-driven solutions, from design to implementation. <br /><br />
+Specializing in finding optimal technical solutions for complex business problems, I utilize a comprehensive array of theoretical materials and a wealth of experience to apply best current practices uniquely tailored to each scenario. With a profound background in Python Backend Development, Machine Learning, DevOps, and data engineering, my expertise is well-suited to assist companies in these rapidly advancing sectors.<br /><br />
 
-I have invested and continue to invest a lot of time and money in studying the fundamental principles of processing and storing data and algorithms, allowing me to look at problems in a broader, more profound way and with greater understanding. <br /><br />
+Skills:<br /><br />
 
-I prefer to work in small teams - startups or growing start-up businesses. If necessary, I can be the only developer on the team. I wouldn't say I like bureaucracy. This is my element if it is required to complete tasks from different directions. At the same time, I can be a team player. I have had mentoring experience. <br /><br />
+I excel in Python programming and have extensive experience with frameworks and technologies such as FastAPI, Flask, and RESTful API. My proficiency extends to database management with MongoDB and PostgreSQL, enhancing data interaction through tools like Mongo Engine and Pydantic. I adeptly manage task queues with Celery, and utilize Docker for containerization, ensuring scalable and efficient application deployment. My experience with Alembic and Redis, along with messaging systems like RabbitMQ, strengthens backend infrastructures.<br /><br />
+
+In Machine Learning, I specialize in Large Language Models (LLM), using tools such as LangChain and LangGraph to enhance natural language processing capabilities. My data engineering skills are demonstrated through my use of AWS services including Glue, Athena, Aurora, RedShift, and Quicksight, alongside data orchestration with Airflow and data integrity with dbt and Great Expectations. Advanced analytics and big data handling are facilitated through platforms like Spark, Snowflake, and integrations such as AWS Lambda Functions and OpenSearch.<br /><br />
+
+Last Achievements:<br /><br />
+
+- Under my leadership the technical team created an updated core product of the platform, which accelerated the development of client bots by 40 times and also reduced the cost of such a bot by 80 times.<br />
+- I took the initiative to develop a transparent and fair system for grading our technical specialists, which also includes an effective wage calculation method. This system ensures that everyone's contributions
+are recognized and valued, fostering a positive work environment.<br />
+- Thanks to the development standards I set up, deploying updates has accelerated 10 times.<br /><br />
+
+For further collaboration or to learn more about how my skills can benefit your projects, please visit my personal website at www.vandriichuk.com. You can also reach me directly via email at v.andriichuk@outlook.com for any professional inquiries.<br /><br />
 
 My CV: https://vandriichuk.com<br />
 
