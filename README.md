@@ -17,7 +17,7 @@ Last Achievements:<br /><br />
 are recognized and valued, fostering a positive work environment.<br />
 - Thanks to the development standards I set up, deploying updates has accelerated 10 times.<br /><br />
 
-For further collaboration or to learn more about how my skills can benefit your projects, please visit my personal website at www.vandriichuk.com. You can also reach me directly via email at v.andriichuk@outlook.com for any professional inquiries.<br /><br />
+For further collaboration or to learn more about how my skills can benefit your projects, please visit my personal website at www.vandriichuk.com. You can also reach me directly via email at v.andriichuk@gmail.com for any professional inquiries.<br /><br />
 
 My CV: https://vandriichuk.com<br />
 
